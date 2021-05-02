@@ -11,7 +11,7 @@
 
 
 // --- Protótipo das Funções Auxiliares ---
-unsigned long ReadCount(); //conversão AD do HX711
+unsigned long ReadCount(); 
 
 
 // --- Variáveis Globais ---
